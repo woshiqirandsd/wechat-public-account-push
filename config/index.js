@@ -146,7 +146,7 @@ export const USER_CONFIG = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "7LiE7k1CiogA7zN5ZiwwQiy6ZfYj4PGASv6WEjl8kCo",
     },
     // 你可以不断按格式往下增加
     // ...
